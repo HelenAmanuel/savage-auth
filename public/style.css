@@ -1,7 +1,19 @@
 body{
   padding-top:80px;
   word-wrap:break-word;
+  background-color:#f79a95;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fhiphopdx-production%2F2017%2F07%2F21-savage-issa-cover-1.jpg&f=1&nofb=1);
 }
 img{
   height: 200px;
+}
+
+h1 {
+  font-family:Copperplate, sans-serif;
+  font-size: 70px;
+  color: yellow;
+}
+.row {
+  background-color: lightGray;
+
 }
